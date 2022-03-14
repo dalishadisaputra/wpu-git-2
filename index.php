@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>selamat Datang</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore, dicta.</p>
 </body>
 </html>
